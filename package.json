@@ -1,0 +1,38 @@
+{
+  "name": "yarn2-parcel-react-sample-project",
+  "packageManager": "yarn@3.0.2",
+  "scripts": {
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.0",
+    "@types/eslint": "^7",
+    "@types/jest": "^27.0.1",
+    "@types/jest-plugin-context": "^2",
+    "@types/react": "^17",
+    "@types/react-dom": "^17",
+    "@types/testing-library__jest-dom": "^5",
+    "@typescript-eslint/eslint-plugin": "^4.31.1",
+    "@typescript-eslint/parser": "^4.31.1",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-airbnb-typescript": "^14.0.0",
+    "eslint-import-resolver-node": "^0.3.6",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.25.3",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "jest": "^27.2.0",
+    "jest-plugin-context": "^2.9.0",
+    "parcel": "^2.0.0-rc.0",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
