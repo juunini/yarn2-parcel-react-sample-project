@@ -3,7 +3,7 @@
 ## What command use to make it?
 
 ```sh
-yarn init -2 # create yarn2 project
+$ yarn init -2 # create yarn2 project
 $ yarn add --dev typescript # install TypeScript
 $ yarn plugin import typescript # setting auto install @types
 $ yarn tsc --init # create tsconfig.json
